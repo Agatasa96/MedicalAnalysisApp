@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+h2 {
+	margin: 20px;
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+}
+
+button {
+	font-family: "Times New Roman", Times, serif;
+	margin: 10px;
+}

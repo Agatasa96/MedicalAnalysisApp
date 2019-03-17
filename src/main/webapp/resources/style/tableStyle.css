@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+h2 {
+	margin: 20px;
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+}
+
+input {
+	font-family: "Times New Roman", Times, serif;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+table {
+	font-size: 20px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+button{
+	font-family: "Times New Roman", Times, serif;
+}
+
+h3{
+	margin-top:10px;
+	font-size: 20px;
+	font-family: "Times New Roman", Times, serif;
+	
+}
